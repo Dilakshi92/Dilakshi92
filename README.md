@@ -2,11 +2,14 @@
 Frontend Developer | Software Engineering Trainee
 📍 Jaffna, Sri Lanka
 📧 laxdj185@gmail.com
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn: Dilakshiga Jeyakumar
+💻 GitHub: Dilakshi92
 
 👩‍💻 About Me
-I'm a passionate Software Engineering student with a strong interest in Frontend Development. I love designing responsive, user-friendly web interfaces using modern frontend technologies. Currently undergoing software development training, I'm seeking opportunities to grow as a Frontend Developer while strengthening my full-stack capabilities.
+I'm a passionate Software Engineering student with a strong interest in Frontend Development.
+I love designing responsive, user-friendly web interfaces using modern frontend technologies.
+Currently undergoing software development training, 
+I'm seeking opportunities to grow as a Frontend Developer while strengthening my full-stack capabilities.
 
 🛠️ Technical Skills
 Category	Skills
@@ -56,8 +59,3 @@ G.C.E. Advanced Level	Jaffna Hindu Ladies' College, Jaffna	2022/2023
 G.C.E. Ordinary Level	Jaffna Hindu Ladies' College, Jaffna	2018
 
 
-
-
-📧 Email: laxdj185@gmail.com
-🔗 LinkedIn: Dilakshiga Jeyakumar
-💻 GitHub: Dilakshi92
