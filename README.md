@@ -6,7 +6,7 @@
 📍 Jaffna, Sri Lanka
 📧 laxdj185@gmail.com
 🔗 LinkedIn: [Dilakshiga Jeyakumar](https://www.linkedin.com/in/dilakshiga-jeyakumar-449762327/)
-💻 GitHub: Dilakshi92
+💻 GitHub: [Dilakshi92](https://github.com/Dilakshi92/)
 
 ## 👩‍💻 About Me ##
 Passionate Software Engineering student focused on Frontend Development.
