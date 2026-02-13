@@ -5,7 +5,7 @@
 ## Frontend Developer | Software Engineering Undergraduate ##
 📍 Jaffna, Sri Lanka
 📧 laxdj185@gmail.com
-🔗 LinkedIn: Dilakshiga Jeyakumar
+🔗 LinkedIn: [Dilakshiga Jeyakumar](https://www.linkedin.com/in/dilakshiga-jeyakumar-449762327/)
 💻 GitHub: Dilakshi92
 
 ## 👩‍💻 About Me ##
